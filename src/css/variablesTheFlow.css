@@ -38,6 +38,8 @@
   --emotion-pictures-with-title-bg-background-color-custom: var(--m-white);
   --emotion-pictures-with-title-bg-color-custom: var(--m-black);
   --emotion-pictures-with-title-img-max-height: var(--emotion-pictures-default-img-max-height);
+  --emotion-pictures-general-logo-img-width-custom: 100%;
+  --emotion-pictures-general-logo-img-width-mobile-custom:100%;
   --font-family: 'OpenSans';
   --font-family-bold: var(--font-family);
   --font-family-secondary: var(--font-family);
